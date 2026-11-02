@@ -62,3 +62,11 @@ AI Automation Developer | n8n | Python | JavaScript
 ---
 
 *This project was built as part of my portfolio in workflow automation and AI-powered solutions.*
+
+![Metals Price Tracker Workflow](3.png)
+
+
+
+
+
+
